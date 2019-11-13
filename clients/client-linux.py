@@ -6,17 +6,17 @@
 # 时间: 20190128
 # 说明: 默认情况下修改server和user就可以了。
 
-SERVER = "127.0.0.1"
-USER = "s01"
+SERVER = "status.chacha20.org"
+USER = "00"
 
 
 PORT = 35601
 PASSWORD = "USER_DEFAULT_PASSWORD"
 INTERVAL = 1
 PORBEPORT = 80
-CU = "cu.tz.cloudcpp.com"
-CT = "ct.tz.cloudcpp.com"
-CM = "cm.tz.cloudcpp.com"
+CU = "status-4837.chacha20.org"
+CT = "status-4134.chacha20.org"
+CM = "status-9808.chacha20.org"
 
 import socket
 import time
