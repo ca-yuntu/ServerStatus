@@ -16,7 +16,7 @@ INTERVAL = 1
 PORBEPORT = 80
 CU = "status-4837.chacha20.org"
 CT = "status-4134.chacha20.org"
-CM = "status-9808.chacha20.org"
+CM = "status-9809.chacha20.org"
 
 import socket
 import time
