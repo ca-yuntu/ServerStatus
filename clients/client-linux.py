@@ -6,7 +6,7 @@
 # 时间: 20190128
 # 说明: 默认情况下修改server和user就可以了。
 
-SERVER = "status.chacha20.org"
+SERVER = "us-west-lax-status.nvmecat.top"
 USER = "00"
 
 
@@ -14,9 +14,9 @@ PORT = 35601
 PASSWORD = "USER_DEFAULT_PASSWORD"
 INTERVAL = 1
 PORBEPORT = 80
-CU = "status-4837.chacha20.org"
-CT = "status-4134.chacha20.org"
-CM = "status-9809.chacha20.org"
+CU = "us-west-lax-status-cu.nvmecat.top"
+CT = "us-west-lax-status-ct.nvmecat.top"
+CM = "us-west-lax-status-cm.nvmecat.top"
 
 import socket
 import time
