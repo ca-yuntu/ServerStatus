@@ -8,7 +8,7 @@
 # 说明: 默认情况下修改server和user就可以了。
 
 
-SERVER = "us-west-lax-status.nvmecat.top"
+SERVER = "serverstatus.nvmecat.top"
 USER = "00"
 
 
@@ -16,9 +16,9 @@ PORT = 35601
 PASSWORD = "USER_DEFAULT_PASSWORD"
 INTERVAL = 1
 PORBEPORT = 80
-CU = "us-west-lax-status-cu.nvmecat.top"
-CT = "us-west-lax-status-ct.nvmecat.top"
-CM = "us-west-lax-status-cm.nvmecat.top"
+CU = "serverstatus-cu.nvmecat.top"
+CT = "serverstatus-ct.nvmecat.top"
+CM = "serverstatus-cm.nvmecat.top"
 
 import socket
 import time
